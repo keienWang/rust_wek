@@ -37,7 +37,7 @@ dependencies = [
 
 [[package]]
 name = "rust_wek"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "rust_keien",
  "sort_rust",

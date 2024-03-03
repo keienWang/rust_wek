@@ -1,12 +1,13 @@
 
 [package]
 name = "rust_wek"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 description = "wek for Rust"
 documentation = "https://github.com/keienwang/rust_wek"
+repository = "https://github.com/keienwang/rust_wek"
 
 homepage = "https://github.com/keienwang/rust_wek"
 keywords = ["science", "mathematics", "ai", "hpc"]
