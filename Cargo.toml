@@ -15,3 +15,4 @@ license = "Apache-2.0"
 [dependencies]
 sort_rust = "0.2.0"
 rust_keien = "0.1.0"
+rust_wbc = "0.1.0"
